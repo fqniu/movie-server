@@ -4,7 +4,10 @@
 运行npm run start
 ```
 
-**接口如下**
+
+
+## 接口如下
+
 ```js
 http://localhost:9000/movie/city
 http://localhost:9000/movie/swiper
@@ -22,4 +25,9 @@ http://localhost:9000/movie/hot/?city=bj
 
 http://localhost:9000/movie/cinema/?city=bj
 // 参数说明: city可以为bj、sh、gz
+```
+
+```js
+http://localhost:9000/movie/info/?name=ndmz
+// 参数说明: name 
 ```
